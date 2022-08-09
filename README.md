@@ -26,7 +26,7 @@ Let’s describe how this data set work to predict the weather-
 
 The dataset available in https://www.kaggle.com/datasets/ananthr1/weather-prediction
 
-# Result
+# Result & Discussion
 <img src="accuracy_all.jpg" alt="" width="800" height="400">
 
 The purpose of this project was to find a suitable classifier for weather prediction which will classify weather as accurately as possible.After applying 5 different model we can see that for this particular dataset, **KNN and Kernel SVM** have **performed better than the rest**. So we can shortlist these 2 to work on this project. This is exactly the same conclusion we arrived at by training each of those algorithms individually.
