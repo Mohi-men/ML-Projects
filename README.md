@@ -25,3 +25,6 @@ Let’s describe how this data set work to predict the weather-
 <h4>Dataset link</h4>
 
 The dataset available in https://www.kaggle.com/datasets/ananthr1/weather-prediction
+
+# Result
+<img src="accuracy_all.jpg" alt="" width="800" height="400">
